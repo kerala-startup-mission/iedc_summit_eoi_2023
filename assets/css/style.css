@@ -1621,8 +1621,7 @@ div.has-loading-screen.loading-done:after {
 .navbar {
     font-size: .875rem;
     font-weight: 500;
-    padding-bottom: 2rem;
-    padding-top: 2rem;
+    
     transition: .3s ease;
 }
 
@@ -1674,8 +1673,7 @@ div.has-loading-screen.loading-done:after {
     display: table;
     height: 100%;
 }
-
-#header, #footer {
+ #footer {
     display: table-row;
     height: .0625rem;
 }
